@@ -15,7 +15,7 @@ class Propietario : Persona{
 			}
 				
 		void mostrar(){
-		cout<<"----------Metodo leer------------"<<endl;
+		cout<<"----------Metodo mostrar------------"<<endl;
 		cout<<"Nit:  "<<nit<<endl;
 		cout<<"Cui:  "<<cui<<endl;
 		cout<<"Nombres: "<<nombres<<endl;
